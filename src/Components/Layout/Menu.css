@@ -1,7 +1,7 @@
 .Menu {
     display: flex;
     flex-basis: 250px;
-    background-color: dodgerblue;
+    background-color: #1e90ff;
 }
 .Menu nav {
     flex: 1;
@@ -21,7 +21,7 @@
     flex: 1;
     text-decoration: none;
     color: white;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 .Menu li a:hover {
